@@ -1,6 +1,4 @@
 # MVC5
-MVC
-
 
 ## MVCZÃO Basico do Basico
 
